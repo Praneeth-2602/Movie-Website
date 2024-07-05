@@ -17,16 +17,16 @@ export default function contact() {
                             <AiFillSetting />
                         </div>
                         <div className="usercoderimg">
-                            <img src="/img/coder.jpg" alt="coder" />
+                            <img src="/img/coder.png" alt="coder" />
                         </div>
                         <div className="usercoderinfo">
                             <h1>Praneeth Palugula</h1>
                             <h3>Web Developer</h3>
                             <div className="usercodersvg">
-                                <Link href='/'><AiOutlineLinkedin /></Link>
-                                <Link href='/'><IoLogoInstagram /></Link>
-                                <Link href='/'><AiOutlineDiscord /></Link>
-                                <Link href='/'><SiGithub /></Link>
+                                <Link href=''><AiOutlineLinkedin /></Link>
+                                <Link href='https://www.instagram.com/just._.praneeth._'><IoLogoInstagram /></Link>
+                                <Link href='https://www.discord.gg/just._.praneeth._'><AiOutlineDiscord /></Link>
+                                <Link href='https://www.github.com/praneeth-2602'><SiGithub /></Link>
                             </div>
                         </div>
                     </div>

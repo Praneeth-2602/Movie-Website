@@ -96,7 +96,7 @@ export default function Home() {
                       {/* content */}
                       <div className="content" key={movie._id}>
                         <div className="contentflex">
-                          <div className="smlimg">
+                          <div className="smalimg">
                             <img src={movie.smposter} alt="movie" loading="lazy" />
                           </div>
                           <div className="movieconte">
