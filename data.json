@@ -1,0 +1,455 @@
+[
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc569"
+    },
+    "title": "Forrest Gump",
+    "slug": "forrest-gump",
+    "bgposter": "forrest_gump_bg.jpg",
+    "smposter": "forrest_gump_sm.jpg",
+    "titlecategory": "movies",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal...",
+    "rating": 9.5,
+    "year": 1994,
+    "duration": 142,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "2.1 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+    "category": "bollywood",
+    "watchonline": "https://example.com/watch/forrest-gump",
+    "download": {
+      "480p": "https://example.com/download/forrest_gump_480p.mkv",
+      "720p": "https://example.com/download/forrest_gump_720p.mkv",
+      "1080p": "https://example.com/download/forrest_gump_1080p.mkv",
+      "4k": "https://example.com/download/forrest_gump_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc566"
+    },
+    "title": "The Lion King",
+    "slug": "lion-king",
+    "bgposter": "lion_king_bg.jpg",
+    "smposter": "lion_king_sm.jpg",
+    "titlecategory": "movies",
+    "description": "A young lion prince flees his kingdom after the murder of his father...",
+    "rating": 9.4,
+    "year": 1994,
+    "duration": 88,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "1.5 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=4sj1MT05lAA",
+    "category": "hollywood",
+    "watchonline": "https://example.com/watch/lion-king",
+    "download": {
+      "480p": "https://example.com/download/lion_king_480p.mkv",
+      "720p": "https://example.com/download/lion_king_720p.mkv",
+      "1080p": "https://example.com/download/lion_king_1080p.mkv",
+      "4k": "https://example.com/download/lion_king_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc561"
+    },
+    "title": "The Dark Knight",
+    "slug": "dark-knight",
+    "bgposter": "dark_knight_bg.jpg",
+    "smposter": "dark_knight_sm.jpg",
+    "titlecategory": "movies",
+    "description": "When the menace known as The Joker wreaks havoc...",
+    "rating": 9.7,
+    "year": 2008,
+    "duration": 152,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "2.8 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=kmJLuwP3MbY",
+    "category": "hollywood",
+    "watchonline": "https://example.com/watch/dark-knight",
+    "download": {
+      "480p": "https://example.com/download/dark_knight_480p.mkv",
+      "720p": "https://example.com/download/dark_knight_720p.mkv",
+      "1080p": "https://example.com/download/dark_knight_1080p.mkv",
+      "4k": "https://example.com/download/dark_knight_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc560"
+    },
+    "title": "Inception",
+    "slug": "inception",
+    "bgposter": "inception_bg.jpg",
+    "smposter": "inception_sm.jpg",
+    "titlecategory": "movies",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology...",
+    "rating": 8.8,
+    "year": 2010,
+    "duration": 148,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "2.5 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "category": "hollywood",
+    "watchonline": "https://example.com/watch/inception",
+    "download": {
+      "480p": "https://example.com/download/inception_480p.mkv",
+      "720p": "https://example.com/download/inception_720p.mkv",
+      "1080p": "https://example.com/download/inception_1080p.mkv",
+      "4k": "https://example.com/download/inception_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc564"
+    },
+    "title": "The Godfather",
+    "slug": "godfather",
+    "bgposter": "godfather_bg.jpg",
+    "smposter": "godfather_sm.jpg",
+    "titlecategory": "movies",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "rating": 8.1,
+    "year": 1972,
+    "duration": 175,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "2.5 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=sY1S34973zA",
+    "category": "hollywood",
+    "watchonline": "https://example.com/watch/godfather",
+    "download": {
+      "480p": "https://example.com/download/godfather_480p.mkv",
+      "720p": "https://example.com/download/godfather_720p.mkv",
+      "1080p": "https://example.com/download/godfather_1080p.mkv",
+      "4k": "https://example.com/download/godfather_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc562"
+    },
+    "title": "Interstellar",
+    "slug": "interstellar",
+    "bgposter": "interstellar_bg.jpg",
+    "smposter": "interstellar_sm.jpg",
+    "titlecategory": "movies",
+    "description": "A team of explorers travel through a wormhole in space...",
+    "rating": 9.9,
+    "year": 2014,
+    "duration": 169,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "3.0 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+    "category": "bollywood",
+    "watchonline": "https://example.com/watch/interstellar",
+    "download": {
+      "480p": "https://example.com/download/interstellar_480p.mkv",
+      "720p": "https://example.com/download/interstellar_720p.mkv",
+      "1080p": "https://example.com/download/interstellar_1080p.mkv",
+      "4k": "https://example.com/download/interstellar_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc563"
+    },
+    "title": "The Shawshank Redemption",
+    "slug": "shawshank-redemption",
+    "bgposter": "shawshank_redemption_bg.jpg",
+    "smposter": "shawshank_redemption_sm.jpg",
+    "titlecategory": "movies",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "rating": 9.6,
+    "year": 1994,
+    "duration": 142,
+    "genre": [
+      "Drama"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "2.1 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+    "category": "hollywood",
+    "watchonline": "https://example.com/watch/shawshank-redemption",
+    "download": {
+      "480p": "https://example.com/download/shawshank_redemption_480p.mkv",
+      "720p": "https://example.com/download/shawshank_redemption_720p.mkv",
+      "1080p": "https://example.com/download/shawshank_redemption_1080p.mkv",
+      "4k": "https://example.com/download/shawshank_redemption_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc565"
+    },
+    "title": "The Avengers",
+    "slug": "avengers",
+    "bgposter": "avengers_bg.jpg",
+    "smposter": "avengers_sm.jpg",
+    "titlecategory": "movies",
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team...",
+    "rating": 9.3,
+    "year": 2012,
+    "duration": 143,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "2.6 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=eOrNdBpGMv8",
+    "category": "hollywood",
+    "watchonline": "https://example.com/watch/avengers",
+    "download": {
+      "480p": "https://example.com/download/avengers_480p.mkv",
+      "720p": "https://example.com/download/avengers_720p.mkv",
+      "1080p": "https://example.com/download/avengers_1080p.mkv",
+      "4k": "https://example.com/download/avengers_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc55e"
+    },
+    "title": "Pulp Fiction",
+    "slug": "pulp-fiction",
+    "bgposter": "pulp_fiction_bg.jpg",
+    "smposter": "pulp_fiction_sm.jpg",
+    "titlecategory": "movies",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine...",
+    "rating": 8.9,
+    "year": 1994,
+    "duration": 154,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "2.3 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "category": "hollywood",
+    "watchonline": "https://example.com/watch/pulp-fiction",
+    "download": {
+      "480p": "https://example.com/download/pulp_fiction_480p.mkv",
+      "720p": "https://example.com/download/pulp_fiction_720p.mkv",
+      "1080p": "https://example.com/download/pulp_fiction_1080p.mkv",
+      "4k": "https://example.com/download/pulp_fiction_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc55f"
+    },
+    "title": "Fight Club",
+    "slug": "fight-club",
+    "bgposter": "fight_club_bg.jpg",
+    "smposter": "fight_club_sm.jpg",
+    "titlecategory": "movies",
+    "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more...",
+    "rating": 9.0,
+    "year": 1999,
+    "duration": 139,
+    "genre": [
+      "Drama"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "2.4 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
+    "category": "hollywood",
+    "watchonline": "https://example.com/watch/fight-club",
+    "download": {
+      "480p": "https://example.com/download/fight_club_480p.mkv",
+      "720p": "https://example.com/download/fight_club_720p.mkv",
+      "1080p": "https://example.com/download/fight_club_1080p.mkv",
+      "4k": "https://example.com/download/fight_club_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc55c"
+    },
+    "title": "The Matrix",
+    "slug": "matrix",
+    "bgposter": "matrix_bg.jpg",
+    "smposter": "matrix_sm.jpg",
+    "titlecategory": "movies",
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality...",
+    "rating": 8.7,
+    "year": 1999,
+    "duration": 136,
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "2.2 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+    "category": "hollywood",
+    "watchonline": "https://example.com/watch/matrix",
+    "download": {
+      "480p": "https://example.com/download/matrix_480p.mkv",
+      "720p": "https://example.com/download/matrix_720p.mkv",
+      "1080p": "https://example.com/download/matrix_1080p.mkv",
+      "4k": "https://example.com/download/matrix_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc55d"
+    },
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "slug": "lord-of-the-rings-fellowship",
+    "bgposter": "lord_of_the_rings_fellowship_bg.jpg",
+    "smposter": "lord_of_the_rings_fellowship_sm.jpg",
+    "titlecategory": "movies",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring...",
+    "rating": 9.1,
+    "year": 2001,
+    "duration": 178,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "3.2 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=V75dMMIW2B4",
+    "category": "hollywood",
+    "watchonline": "https://example.com/watch/lord-of-the-rings-fellowship",
+    "download": {
+      "480p": "https://example.com/download/lord_of_the_rings_fellowship_480p.mkv",
+      "720p": "https://example.com/download/lord_of_the_rings_fellowship_720p.mkv",
+      "1080p": "https://example.com/download/lord_of_the_rings_fellowship_1080p.mkv",
+      "4k": "https://example.com/download/lord_of_the_rings_fellowship_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc55b"
+    },
+    "title": "The Dark Knight Rises",
+    "slug": "dark-knight-rises",
+    "bgposter": "dark_knight_rises_bg.jpg",
+    "smposter": "dark_knight_rises_sm.jpg",
+    "titlecategory": "movies",
+    "description": "Eight years after the Joker's reign of anarchy, Batman...",
+    "rating": 9.2,
+    "year": 2012,
+    "duration": 164,
+    "genre": [
+      "Action",
+      "Adventure"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "2.9 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=g8evyE9TuYk",
+    "category": "hollywood",
+    "watchonline": "https://example.com/watch/dark-knight-rises",
+    "download": {
+      "480p": "https://example.com/download/dark_knight_rises_480p.mkv",
+      "720p": "https://example.com/download/dark_knight_rises_720p.mkv",
+      "1080p": "https://example.com/download/dark_knight_rises_1080p.mkv",
+      "4k": "https://example.com/download/dark_knight_rises_4k.mkv"
+    },
+    "status": "Published"
+  },
+  {
+    "_id": {
+      "$oid": "667bdc64cffc7ff2062bc55a"
+    },
+    "title": "Kalki 2898Ad",
+    "slug": "kalki-2898ad",
+    "bgposter": "kalki_2898ad_bg.jpg",
+    "smposter": "kalki_2898ad_sm.jpg",
+    "titlecategory": "movies",
+    "description": "In the year 2898, the fate of humanity rests in the hands of one man...",
+    "rating": 8.5,
+    "year": 2022,
+    "duration": 160,
+    "genre": [
+      "Sci-Fi",
+      "Action",
+      "Adventure"
+    ],
+    "language": "English",
+    "subtitle": "English",
+    "size": "2.7 GB",
+    "quality": "HD",
+    "youtubelink": "https://www.youtube.com/watch?v=RP3sHVbgFNA",
+    "category": "south",
+    "watchonline": "https://example.com/watch/kalki-2898ad",
+    "download": {
+      "480p": "https://example.com/download/kalki_2898ad_480p.mkv",
+      "720p": "https://example.com/download/kalki_2898ad_720p.mkv",
+      "1080p": "https://example.com/download/kalki_2898ad_1080p.mkv",
+      "4k": "https://example.com/download/kalki_2898ad_4k.mkv"
+    },
+    "status": "Published"
+  }
+]
